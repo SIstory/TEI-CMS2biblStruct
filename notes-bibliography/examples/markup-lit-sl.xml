@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Chicago Citation Style - Slovenian examples -->
+<listBibl>
+    <!-- Book - One author -->
+    <bibl>Pollan, Michael. <hi rend="italic">The Omnivore’s Dilemma: A Natural History of Four
+            Meals.</hi> New York: Penguin, 2006.</bibl>
+    <!-- Book with One Author, Chicago Manual 14.18 -->
+    <bibl>Zelizer, Barbie. <hi rend="italic">Remembering to Forget: Holocaust Memory through the
+            Camera's Eye.</hi> Chicago: University of Chicago Press, 2003.</bibl>
+    <!-- Books - 17.1.1 Author's Name (Turabian) -->
+    <bibl>Breen, T. H. <hi rend="italic">The Marketplace of Revolution: How Consumer Politics Shaped
+            American Independence.</hi> New York: Oxford University Press, 2004.</bibl>
+    <!-- TODO - author name Elisabeth I is incorrectly labeled as an organization (because there is no comma) -->
+    <bibl>Elizabeth I. <hi rend="italic">Collected Works.</hi> Ur. Leah S. Marcus, Janel Mueller in
+        Mary Beth Rose. Chicago: University of Chicago Press, 2000.</bibl>
+    <!-- Book - Two or more authors -->
+    <bibl>Ward, Geoffrey C. in Ken Burns. <hi rend="italic">The War: An Intimate History,
+            1941–1945.</hi> New York: Knopf, 2007.</bibl>
+    <!-- Book with Two or Three Authors, Chicago Manual 14.18 -->
+    <bibl>Mock, Douglas W. in Geoffrey A. Parker. <hi rend="italic">The Evolution of Sibling
+            Rivalry.</hi> Oxford: Oxford University Press, 1997.</bibl>
+    <!-- Book 4 or More Authors, Chicago Manual 14.18 -->
+    <bibl>Dasco, Sheryl Tatar, Clifford C. Dasco, Connie U. Brelhan, Kirk C. Harlow, Margaret S.
+        Jaffee-Neer, Marilyn Rumsey in Ellison H. Wittels. <hi rend="italic">Managed Care Answer
+            Book.</hi> New York: Panel Publisher, 1995.</bibl>
+    <!-- Books - Multiple authors (Turabian) -->
+    <bibl>Bird, Kai in Martin J. Sherwin. <hi rend="italic">American Prometheus: The Triumph and
+            Tragedy of J. Robert Oppenheimer.</hi> New York: Alfred A. Knopf, 2005.</bibl>
+    <bibl>Appleby, Joyce, Lynn Hunt in Margaret Jacob. <hi rend="italic">Telling the Truth about
+            History.</hi> New York: W. W. Norton &amp; Company, 1994.</bibl>
+    <bibl>Hall, Jacquelyn Dowd, James Leloudis, Robert Korstad, Mary Murphy, Lu Ann Jones in
+        Christopher B. Daly. <hi rend="italic">Like a Family: The Making of a Southern Cotton Mill
+            World.</hi> Chapel Hill: University of North Carolina Press, 1987.</bibl>
+
+    <!-- Book Author and Editor, Chicago Manual 14.18  -->
+    <bibl>Tylor, Edward B. <hi rend="italic">Researches into the Early Development of Mankind and
+            the Development of Civilization</hi>. Ur. Paul Bohannan. Chicago: University of Chicago
+        Press, 1964.</bibl>
+    <!-- Books (Turabian) - EDITOR OR TRANSLATOR IN PLACE OF AN AUTHOR -->
+    <bibl>Silverstein, Theodore, prev. <hi rend="italic">Sir Gawain and the Green Knight.</hi>
+        Chicago: University of Chicago Press, 1974.</bibl>
+    <bibl>Fulop, Timothy E. in Albert J. Raboteau, ur. <hi rend="italic">African-American Religion:
+            Interpretive Essays in History and Culture.</hi> New York: Routledge, 1997.</bibl>
+    <!-- Editor, translator, or compiler instead of author -->
+    <bibl>Lattimore, Richmond, prev. <hi rend="italic">The Iliad of Homer</hi>. Chicago: University
+        of Chicago Press, 1951.</bibl>
+    <!-- Editor, translator, or compiler in addition to author -->
+    <bibl>García Márquez, Gabriel. <hi rend="italic">Love in the Time of Cholera.</hi> Prev. Edith
+        P. Grossman. London: Cape, 1988.</bibl>
+    <!-- Translated Work, Chicago Manual 14.88 -->
+    <bibl>Freud, Sigmund. <hi rend="italic">The Interpretation of Dreams</hi>. Prev. Joyce Crick.
+        New York: Oxford University Press, 1999.</bibl>
+    <!-- Books (Turabian) - EDITOR OR TRANSLATOR IN ADDITION TO AN AUTHOR. -->
+    <bibl>Bonnefoy, Yves. <hi rend="italic">New and Selected Poems.</hi> Ur. John Naughton in
+        Anthony Rudolf. Chicago: University of Chicago Press, 1995.</bibl>
+    <!-- TODO not processing abbreviation Prev. in ur. correctly -->
+    <bibl>Menchú, Rigoberta. <hi rend="italic">Crossing Borders.</hi> Prev. in ur. Ann Wright. New
+        York: Verso, 1999.</bibl>
+    <bibl>Adorno, Theodor W. in Walter Benjamin. <hi rend="italic">The Complete Correspondence,
+            1928–1940.</hi> Ur. Henri Lonitz. Prev. Nicholas Walker. Cambridge, MA: Harvard
+        University Press, 1999.</bibl>
+
+    <!-- No Author, Chicago Manual 14.79. Monografije brez avtorja in številka izdaje -->
+    <bibl><hi rend="italic">The American Heritage Dictionary of the English Language.</hi> 4. izd.
+        Boston: Houghton Mifflin, 2000.</bibl>
+    <!-- Organization as Author, Chicago Manual 14.92. Organizacija kot avtor -->
+    <bibl>American Psychiatric Association. <hi rend="italic">Practice Guideline for the Treatment
+            of Patients with Panic Disorder.</hi> Washington, DC: American Psychiatric Association,
+        1998.</bibl>
+    <!-- Books (Turabian) - ADDITIONAL AUTHORIAL SITUATIONS - Organization as author -->
+    <bibl>National Commission on Terrorist Attacks upon the United States. <hi rend="italic">The
+            9/11 Commission Report.</hi> New York: W. W. Norton &amp; Company, 2004.</bibl>
+    <!-- Books (Turabian) - ADDITIONAL AUTHORIAL SITUATIONS - Pseudonym -->
+    <bibl>Centinel [psevd.]. "Letters." V: <hi rend="italic">The Complete Anti-Federalist</hi>, ur.
+        Herbert J. Storing. Chicago: University of Chicago Press, 1981.</bibl>
+    <!-- Books (Turabian) - ADDITIONAL AUTHORIAL SITUATIONS - Anonymous author -->
+    <bibl>[Cook, Ebenezer?]. <hi rend="italic">Sotweed Redivivus, or The Planter's
+            Looking-Glass.</hi> Annapolis, 1730.</bibl>
+    <bibl><hi rend="italic">A True and Sincere Declaration of the Purpose and Ends of the Plantation
+            Begun in Virginia, of the Degrees Which It Hath Received, and Means by Which It Hath
+            Been Advanced.</hi> 1610.</bibl>
+
+    <!-- Books (Turabian) - 17.1.2 Title -->
+    <!-- If there are two subtitles, use a colon before the first and a semicolon before the second. -->
+    <bibl>Ahmed, Leila. <hi rend="italic">A Border Passage: From Cairo to America; A Woman's
+            Journey.</hi> New York: Farrar, Straus &amp; Giroux, 1999.</bibl>
+    <!-- Italicized terms. When an italicized title includes terms normally italicized in text,
+        such as species names or names of ships, set the terms in roman type. -->
+    <!-- TODO --><bibl>Lech, Raymond B. <hi rend="italic">The Tragic Fate of the U.S.S.</hi> Indianapolis: <hi
+            rend="italic">The U.S. Navy's Worst Disaster at Sea.</hi> New York: Cooper Square Press,
+        2001.</bibl>
+    <!-- Question marks and exclamation points. When a title or a subtitle ends with a question mark
+        or an exclamation point, no other punctuation follows. -->
+    <bibl>Aaron, Henry. <hi rend="italic">Why Is Welfare So Hard to Reform?</hi> Washington, DC:
+        Brookings Institution Press, 1973.</bibl>
+    <bibl>Frank, Thomas. <hi rend="italic">What's the Matter with Kansas? How Conservatives Won the
+        Heart of America.</hi> New York: Metropolitan Books, 2004.</bibl>
+    <!-- NON-sloveninan TITLES (Turabian). Prevodi naslovov [v oglatih oklepajih] -->
+    <bibl><hi rend="italic">Zhongguo renkou tongji nianjian 1996</hi> [China population statistics
+        yearbook 1996]. Beijing: Zhongguo tongji chubanshe, 1996.</bibl>
+
+    <!-- Edition other than First, Chicago Manual 14.118. Številka izdaje (prve izdaje ne pišemo) -->
+    <bibl>Bukatko, Danuta in Marvin A. Daehler. <hi rend="italic">Child Development: A Thematic
+            Approach.</hi> 5. izd. Boston: Houghton Mifflin, 2004.</bibl>
+    <!-- 17.1.3 Edition (Turabian) - REVISED EDITIONS -->
+    <bibl>Daniels, Roger. <hi rend="italic">Coming to America: A History of Immigration and
+        Ethnicity in American Life.</hi> 2. izd. New York: Harper Perennial, 2002.</bibl>
+    <bibl>Babb, Florence. <hi rend="italic">Between Field and Cooking Pot: The Political Economy of
+        Marketwomen in Peru.</hi> Popr. izd. Austin: University of Texas Press, 1989.</bibl>
+    <!-- 17.1.3 Edition (Turabian) - REPRINT EDITIONS (Turabian). Ponatis -->
+    <bibl>Emerson, Ralph Waldo. <hi rend="italic">Nature</hi>. 1836. Ponatis, Boston: Beacon,
+        1985.</bibl>
+    
+    <!-- Multivolume Work (Citing Only 1 Volume), Chicago Manual 14.124 and 14.121 -->
+    <bibl>Churchill, Winston S. <hi rend="italic">A History of the English-Speaking Peoples.</hi>
+        Zv. 1, <hi rend="italic">The Birth of Britain</hi>. New York: Dodd, Mead, 1956.</bibl>
+    <!-- 17.1.4 Volume - (Turabian) - SPECIFIC VOLUME -->
+    <!-- BEWARE: The above example is different from the examples below:
+            - up: Zv. 1, <hi title of volume
+            -down: Zv. 5 dela <hi title of multivolume work -->
+    <bibl>Pelikan, Jaroslav. <hi rend="italic">Christian Doctrine and Modern Culture (since
+        1700).</hi> Zv. 5 dela <hi rend="italic">The Christian Tradition: A History of the
+            Development of Doctrine.</hi> Chicago: University of Chicago Press, 1989.</bibl>
+    <bibl>Donne, John. <hi rend="italic">The “Anniversaries” and the “Epicedes and Obsequies.”</hi>
+        Ur. Gary A. Stringer in Ted-Larry Pebworth. Zv. 6 dela <hi rend="italic">The Variorum Edition of
+            the Poetry of John Donne</hi>, ur. Gary A. Stringer. Bloomington: Indiana University
+        Press, 1995.</bibl>
+    <!-- Multivolume Work (Citing Only 1 Volume) -->
+    <!-- without title of volume -->
+    <bibl>Byrne, Muriel St. Clare, ur. <hi rend="italic">The Lisle Letters.</hi> Zv. 4. Chicago:
+        University of Chicago Press, 1981.</bibl>
+    
+    <!-- Multivolume Work (Citing all the Volumes), Chicago Manual 14.121-14.122 -->
+    <bibl>Cook, Blanche Weisen. <hi rend="italic">Eleanor Roosevelt.</hi> 2 zv. New York: Viking,
+        1992-99.</bibl>
+    <!-- MULTIVOLUME WORK AS A WHOLE (Turabian) -->
+    <bibl>Tillich, Paul. <hi rend="italic">Systematic Theology.</hi> 3 zv. Chicago: University of
+        Chicago Press, 1951–63.</bibl>
+
+    <!-- 17.1.5 Series (Turabian). Zbirka (collection) -->
+    <bibl>Markman, Charles W. <hi rend="italic">Chicago before History: The Prehistoric Archaeology
+            of a Modern Metropolitan Area.</hi> Studies in Illinois Archaeology 7. Springfield:
+        Illinois Historic Preservation Agency, 1991.</bibl>
+    <!-- Series and then editors (Turabian) -->
+    <bibl>Isenberg, Nancy. <hi rend="italic">Sex and Citizenship in Antebellum America.</hi> Gender
+        and American Culture, ur. Linda K. Kerber in Nell Irvin Painter. Chapel Hill:
+        University of North Carolina Press, 1998.</bibl>
+
+    <!-- Chapter or other part of a book -->
+    <bibl>Kelly, John D. "Seeing Red: Mao Fetishism, Pax Americana, and the Moral Economy of War."
+        V: <hi rend="italic">Anthropology and Global Counterinsurgency</hi>, ur. John D. Kelly,
+        Beatrice Jauregui, Sean T. Mitchell in Jeremy Walton, 67–83. Chicago: University of Chicago
+        Press, 2010.</bibl>
+    <!-- Book Chapter (Contribution to a Multiauthor Book), Chicago Manual 14.112 -->
+    <bibl>Benedict, Karen. "Archival Ethics." V: <hi rend="italic">Managing Archives and Archival
+            Institutions</hi>, ur. James Gregory Bradsher, 174-84. Chicago: University of Chicago
+        Press, 1989.</bibl>
+    <!-- 17.1.8 Chapters and Other Titled Parts of a Book (Turabian) -->
+    <bibl>Demos, John. "Real Lives and Other Fictions: Reconsidering Wallace Stegner's Angle of
+        Repose." V: <hi rend="italic">Novel History: Historians and Novelists Confront America's
+            Past (and Each Other)</hi>, ur. Mark C. Carnes, 132–45. New York: Simon and
+        Schuster, 2001.</bibl>
+    <!-- 17.1.8 Chapters and Other Titled Parts of a Book (Turabian) - PARTS OF SINGLE-AUTHOR BOOKS -->
+    <bibl>Chasteen, John Charles. "Neocolonialism." V: <hi rend="italic">Born in Blood and Fire: A
+        Concise History of Latin America</hi>, 179–206. New York: W. W. Norton &amp; Company,
+        2001.</bibl>
+    <!-- 17.1.8 Chapters and Other Titled Parts of a Book (Turabian) - PARTS OF SINGLE-AUTHOR BOOKS
+         introduction (uvod), foreword (predgovor), preface (predgovor), or afterword (spremna beseda) -->
+    <bibl>Crosby, Alfred W. Predgovor k novi izdaji knjige <hi rend="italic">Ecological Imperialism:
+        The Biological Expansion of Europe, 900–1900.</hi> Nova izd. New York: Cambridge
+        University Press, 2004.</bibl>
+    <bibl>Calhoun, Craig. Predgovor h knjigi <hi rend="italic">Multicultural Politics: Racism, Ethnicity,
+        and Muslims in Britain</hi>, avt. Tariq Modood. Minneapolis: University of Minnesota
+        Press, 2005.</bibl>
+    <!-- Preface, foreword, introduction, or similar part of a book -->
+    <!-- TODO - problem with pages!! --><bibl>Rieger, James. Uvod h knjigi <hi rend="italic">Frankenstein; or, The Modern
+        Prometheus</hi>, avt. Mary Wollstonecraft Shelley, xi–xxxvii. Chicago: University of
+        Chicago Press, 1982.</bibl>
+    <!-- 17.1.8 Chapters and Other Titled Parts of a Book (Turabian) - PARTS OF EDITED COLLECTIONS -->
+    <bibl>Carr, Anne in Douglas J. Schuurman. "Religion and Feminism: A Reformist Christian
+        Analysis." V: <hi rend="italic">Religion, Feminism, and the Family,</hi> ur. Anne Carr
+        in Mary Stewart Van Leeuwen, 11–32. Louisville, KY: Westminster John Knox Press,
+        1996.</bibl>
+    
+    <!-- Book published electronically -->
+    <bibl>Kurland, Philip B. in Ralph Lerner, ur. <hi rend="italic">The Founders’ Constitution</hi>.
+        Chicago: University of Chicago Press, 1987. Pridobljeno 28. 2. 2010. <ref
+            target="http://press-pubs.uchicago.edu/founders/"
+            >http://press-pubs.uchicago.edu/founders/</ref>.</bibl>
+
+    <!-- 17.1.10 Online and Other Electronic Books (Turabian), popravljena izdaja (Revidet edition - Rev. ed.) -->
+    <bibl>Samora, Julian in Patricia Vandel Simon. <hi rend="italic">A History of the
+            Mexican-American People</hi>. Popr. izd. East Lansing, MI: Julian Samora Research
+        Institute, Michigan State University, 2000. <ref
+            target="http://www.jsri.msu.edu/museum/pubs/MexAmHist/chapter14.html#six"
+            >http://www.jsri.msu.edu/museum/pubs/MexAmHist/chapter14.html#six</ref> (pridobljena 19.
+        12. 2005).</bibl>
+    <!-- 17.1.10 Online and Other Electronic Books (Turabian), 
+         cite books published in other electronic formats - identify the format -->
+    <!-- TODO --><bibl>Hellman, Hal. <hi rend="italic">Great Feuds in Technology: Ten of the Liveliest Disputes
+            Ever.</hi> New York: John Wiley, 2004. Rocket e-book.</bibl>
+
+
+    <!-- Journal article -Article in a print journal -->
+    <bibl>Weinstein, Joshua I. "The Market in Plato’s Republic". <hi rend="italic">Classical
+            Philology</hi> 104 (2009): 439–58.</bibl>
+    <!-- 17.2 Journal Articles (Turabian)  -->
+    <bibl>Green, Nancy L. "The Politics of Exit: Reversing the Immigration Paradigm." <hi
+            rend="italic">Journal of Modern History</hi> 77 (junij 2005): 263–89.</bibl>
+    <bibl>Loften, Peter. "Reverberations between Wordplay and Swordplay in Hamlet." <hi
+            rend="italic">Aeolian Studies</hi> 2 (1989): 12–29.</bibl>
+    <bibl>Williamson, George S. "What Killed August von Kotzebue? The Temptations of Virtue and the
+        Political Theology of German Nationalism, 1789–1819." <hi rend="italic">Journal of Modern
+            History</hi> 72 (december 2000): 890–943.</bibl>
+    <!-- 17.2 Journal Articles (Turabian) with additional title (translation of original title) in squere brackets  -->
+    <bibl>Kern, W. "Waar verzamelde Pigafetta zijn Maleise woorden?" [Where did Pigafetta collect
+        his Malaysian words?] <hi rend="italic">Tijdschrift voor Indische taal-, land- en
+            volkenkunde</hi> 78 (1938): 271–73.</bibl>
+    <!-- 17.2 Journal Articles (Turabian), VOLUME AND ISSUE NUMBERS  -->
+    <bibl>Kumar, Rahul. "Reasonable Reasons in Contractualist Moral Argument." <hi rend="italic"
+            >Ethics</hi> 114 (oktober 2003): 6–37.</bibl>
+    <bibl>Beattie, J. M. "The Pattern of Crime in England, 1660–1800." <hi rend="italic">Past and
+            Present</hi>, št. 62 (1974): 47–95.</bibl>
+    <bibl>Jenkins, J. Craig, David Jacobs in Jon Agnone. "Political Opportunities and
+        African-American Protest, 1948–1997." <hi rend="italic">American Journal of Sociology</hi>
+        109, št. 2 (september 2003): 277–303.</bibl>
+    <!-- 17.2 Journal Articles (Turabian), If an article has been accepted for publication but has not yet appeared (forthcoming) -->
+    <!-- TODO --><bibl>Author, Margaret M. "Article Title." <hi rend="italic">Journal Name</hi> 98 (v
+        objavi).</bibl>
+    <!-- 17.2 Journal Articles (Turabian), 17.2.5 Page Numbers and Other Locating Information -->
+    <bibl>Gold, Ann Grodzins. "Grains of Truth: Shifting Hierarchies of Food and Grace in Three
+        Rajasthani Tales." <hi rend="italic">History of Religions</hi> 38, št. 2 (1998):
+        150–71.</bibl>
+    <!-- 17.2 Journal Articles (Turabian), 17.2.6 Special Issues and Supplements -->
+    <!--        citing article -->
+    <!-- TODO --><bibl>Jones, Matthew L. "Descartes's Geometry as a Spiritual Exercise." V: "Things," ur. Bill
+        Brown. Izredna številka, <hi rend="italic">Critical Inquiry</hi> 28, št. 1 (jesen 2001):
+        40–71.</bibl>
+    <!--        citing whole issue -->
+    <!-- TODO, not optimal - don't process string Special issue -->
+    <bibl>Brown, Bill, ur. "Things." Special issue, <hi rend="italic">Critical Inquiry</hi> 28, št.
+        1 (jesen 2001).</bibl>
+
+    <!-- Article in an online journal -->
+    <bibl>Kossinets, Gueorg in Duncan J. Watts. "Origins of Homophily in an Evolving Social
+        Network." <hi rend="italic">American Journal of Sociology</hi> 115 (2009): 405–50.
+        Pridobljeno 28. 2. 2010. <ref target="doi:10.1086/599247">doi:10.1086/599247</ref>.</bibl>
+    <!-- 17.2.7 Articles Published Online (Turabian) -->
+    <bibl>Uzzi, Brian in Jarrett Spiro. "Collaboration and Creativity: The Small World Problem." <hi
+            rend="italic">American Journal of Sociology</hi> 111, št. 2 (september 2005). <ref
+            target="http://www.journals.uchicago.edu/AJS/journal/issues/v111n2/090090/090090html"
+            >http://www.journals.uchicago.edu/AJS/journal/issues/v111n2/090090/090090html</ref>
+        (pridobljeno 19. 12. 2005).</bibl>
+    <bibl>Shapiro, Lawrence A. "Multiple Realizations." <hi rend="italic">Journal of Philosophy</hi>
+        97, št. 12 (december 2000): 635–54. <ref
+            target="http://links.jstor.org/sici?sici=0022–362X%28200012%2997%3A12%3C635%3AMR%3E2.0.CO%3B2-Q"
+            >http://links.jstor.org/sici?sici=0022–362X%28200012%2997%3A12%3C635%3AMR%3E2.0.CO%3B2-Q</ref>
+        (pridobljeno 27. 6. 2006).</bibl>
+
+    <!-- Thesis or dissertation (Turabian) -->
+    <!-- TODO - not optimal - arrange element unknown --><bibl>Choi, Mihwa. "Contesting Imaginaires in Death Rituals during the Northern Song Dynasty."
+        Doktorska disertacija, University of Chicago, 2008.</bibl>
+    <!-- 17.6.1 Theses and Dissertations - beware: italic inside (parenthesized) title  -->
+    <!-- TODO - not optimal - arrange element unknown and italic inside title element!!! -->
+    <bibl>Murphy, Priscilla Coit. "What a Book Can Do: <hi rend="italic">Silent Spring</hi> and
+        Media-Borne Public Debate." Doktorska disertacija, University of North Carolina,
+        2000.</bibl>
+    <!-- 17.6.1 Theses and Dissertations in online database (Turabian)  -->
+    <!-- TODO --><bibl>Murphy, Priscilla Coit. "What a Book Can Do: Silent Spring and Media-Borne Public Debate."
+        Doktorska disertacija, University of North Carolina, 2000. V ProQuest Dissertations and
+        Theses, <ref
+            target="http://proquest.umi.com/pqdweb?did=727710781&amp;sid=2&amp;Fmt=2&amp;clientId=13392&amp;RQT=309&amp;VName=PQD"
+            >http://proquest.umi.com/pqdweb?did=727710781&amp;sid=2&amp;Fmt=2&amp;clientId=13392&amp;RQT=309&amp;VName=PQD</ref>
+        (pridobljeno 1. 4. 2006).</bibl>
+    <!-- Paper presented at a meeting or conference -->
+    <!-- TODO - not optimal - arrange element unknown --><bibl>Adelman, Rachel. "‘Such Stuff as Dreams Are Made On’: God’s Footstool in the Aramaic
+        Targumim and Midrashic Tradition." Prispevek na letni konferenci Society of Biblical
+        Literature, New Orleans, Louisiana, 21–24. 11. 2009.</bibl>
+    <!-- 17.6.2 Lectures and Papers Presented at Meetings (Turabian) -->
+    <!-- TODO - not optimal - arrange element unknown --><bibl>Skocpol, Theda. "Voice and Inequality: The Transformation of American Civic Democracy."
+        Presidential address, letna konferenca American Political Science Association, Philadelphia,
+        PA, 28. 8. 2003.</bibl>
+
+</listBibl>

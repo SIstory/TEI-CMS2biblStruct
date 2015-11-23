@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Michael</forename>
+               <surname>Pollan</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">The Omnivore’s Dilemma</title>
+         <title level="m" type="sub">A Natural History of Four Meals</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Penguin</publisher>
+            <date when="2006"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Barbie</forename>
+               <surname>Zelizer</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Remembering to Forget</title>
+         <title level="m" type="sub">Holocaust Memory through the Camera's Eye</title>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <date when="2003"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename full="init">T.</forename>
+               <forename full="init">H.</forename>
+               <surname>Breen</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">The Marketplace of Revolution</title>
+         <title level="m" type="sub">How Consumer Politics Shaped American Independence</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Oxford University Press</publisher>
+            <date when="2004"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <orgName>Elizabeth I</orgName>
+         </author>
+         <title level="m" type="main">Collected Works</title>
+         <editor>
+            <persName>Leah S. Marcus</persName>
+         </editor>
+         <editor>
+            <persName>
+               <forename>Janel</forename>
+               <surname>Mueller</surname>
+            </persName>
+         </editor>
+         <editor>
+            <persName>Mary Beth Rose</persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <date when="2000"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Geoffrey</forename>
+               <forename full="init">C.</forename>
+               <surname>Ward</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>
+               <forename>Ken</forename>
+               <surname>Burns</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">The War</title>
+         <title level="m" type="sub">An Intimate History, 1941–1945</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Knopf</publisher>
+            <date when="2007"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Douglas</forename>
+               <forename full="init">W.</forename>
+               <surname>Mock</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>Geoffrey A. Parker</persName>
+         </author>
+         <title level="m" type="main">The Evolution of Sibling Rivalry</title>
+         <imprint>
+            <pubPlace>Oxford</pubPlace>
+            <publisher>Oxford University Press</publisher>
+            <date when="1997"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Sheryl</forename>
+               <forename>Tatar</forename>
+               <surname>Dasco</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>Clifford C. Dasco</persName>
+         </author>
+         <author>
+            <persName>Connie U. Brelhan</persName>
+         </author>
+         <author>
+            <persName>Kirk C. Harlow</persName>
+         </author>
+         <author>
+            <persName>Margaret S. Jaffee-Neer</persName>
+         </author>
+         <author>
+            <persName>
+               <forename>Marilyn</forename>
+               <surname>Rumsey</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>Ellison H. Wittels</persName>
+         </author>
+         <title level="m" type="main">Managed Care Answer Book</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Panel Publisher</publisher>
+            <date when="1995"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Kai</forename>
+               <surname>Bird</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>Martin J. Sherwin</persName>
+         </author>
+         <title level="m" type="main">American Prometheus</title>
+         <title level="m" type="sub">The Triumph and Tragedy of J. Robert Oppenheimer</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Alfred A. Knopf</publisher>
+            <date when="2005"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Joyce</forename>
+               <surname>Appleby</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>
+               <forename>Lynn</forename>
+               <surname>Hunt</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>
+               <forename>Margaret</forename>
+               <surname>Jacob</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Telling the Truth about History</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>W. W. Norton &amp; Company</publisher>
+            <date when="1994"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Jacquelyn</forename>
+               <forename>Dowd</forename>
+               <surname>Hall</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>
+               <forename>James</forename>
+               <surname>Leloudis</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>
+               <forename>Robert</forename>
+               <surname>Korstad</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>
+               <forename>Mary</forename>
+               <surname>Murphy</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>Lu Ann Jones</persName>
+         </author>
+         <author>
+            <persName>Christopher B. Daly</persName>
+         </author>
+         <title level="m" type="main">Like a Family</title>
+         <title level="m" type="sub">The Making of a Southern Cotton Mill World</title>
+         <imprint>
+            <pubPlace>Chapel Hill</pubPlace>
+            <publisher>University of North Carolina Press</publisher>
+            <date when="1987"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Edward</forename>
+               <forename full="init">B.</forename>
+               <surname>Tylor</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Researches into the Early Development of Mankind and the Development of Civilization</title>
+         <editor>
+            <persName>
+               <forename>Paul</forename>
+               <surname>Bohannan</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <date when="1964"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <title level="m" type="main">Sir Gawain and the Green Knight</title>
+         <editor role="translator">
+            <persName>
+               <forename>Theodore</forename>
+               <surname>Silverstein</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <date when="1974"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <title level="m" type="main">African-American Religion</title>
+         <title level="m" type="sub">Interpretive Essays in History and Culture</title>
+         <editor>
+            <persName>
+               <forename>Timothy</forename>
+               <forename full="init">E.</forename>
+               <surname>Fulop</surname>
+            </persName>
+         </editor>
+         <editor>
+            <persName>Albert J. Raboteau</persName>
+         </editor>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Routledge</publisher>
+            <date when="1997"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <title level="m" type="main">The Iliad of Homer</title>
+         <editor role="translator">
+            <persName>
+               <forename>Richmond</forename>
+               <surname>Lattimore</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <date when="1951"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Gabriel</forename>
+               <surname>García</surname>
+               <surname>Márquez</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Love in the Time of Cholera</title>
+         <editor role="translator">
+            <persName>Edith P. Grossman</persName>
+         </editor>
+         <imprint>
+            <pubPlace>London</pubPlace>
+            <publisher>Cape</publisher>
+            <date when="1988"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Sigmund</forename>
+               <surname>Freud</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">The Interpretation of Dreams</title>
+         <editor role="translator">
+            <persName>
+               <forename>Joyce</forename>
+               <surname>Crick</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Oxford University Press</publisher>
+            <date when="1999"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Yves</forename>
+               <surname>Bonnefoy</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">New and Selected Poems</title>
+         <editor>
+            <persName>
+               <forename>John</forename>
+               <surname>Naughton</surname>
+            </persName>
+         </editor>
+         <editor>
+            <persName>
+               <forename>Anthony</forename>
+               <surname>Rudolf</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <date when="1995"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Rigoberta</forename>
+               <surname>Menchú</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Crossing Borders</title>
+         <editor role="translator">
+            <persName>
+               <forename>in</forename>
+               <surname>ur</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Verso</publisher>
+            <date when="1999"/>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s">Ann Wright</title>
+      </series>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Theodor</forename>
+               <forename full="init">W.</forename>
+               <surname>Adorno</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>
+               <forename>Walter</forename>
+               <surname>Benjamin</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">The Complete Correspondence, 1928–1940</title>
+         <editor>
+            <persName>
+               <forename>Henri</forename>
+               <surname>Lonitz</surname>
+            </persName>
+         </editor>
+         <editor role="translator">
+            <persName>
+               <forename>Nicholas</forename>
+               <surname>Walker</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <pubPlace>Cambridge</pubPlace>
+            <pubPlace>MA</pubPlace>
+            <publisher>Harvard University Press</publisher>
+            <date when="1999"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <title level="m" type="main">The American Heritage Dictionary of the English Language</title>
+         <edition n="4"/>
+         <imprint>
+            <pubPlace>Boston</pubPlace>
+            <publisher>Houghton Mifflin</publisher>
+            <date when="2000"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <orgName>American Psychiatric Association</orgName>
+         </author>
+         <title level="m" type="main">Practice Guideline for the Treatment of Patients with Panic Disorder</title>
+         <imprint>
+            <pubPlace>Washington</pubPlace>
+            <pubPlace>DC</pubPlace>
+            <publisher>American Psychiatric Association</publisher>
+            <date when="1998"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <orgName>National Commission on Terrorist Attacks upon the United States</orgName>
+         </author>
+         <title level="m" type="main">The 9/11 Commission Report</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>W. W. Norton &amp; Company</publisher>
+            <date when="2004"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="bookChapter">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Centinel</forename>
+               <surname>[psevd.]</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Letters</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">The Complete Anti-Federalist</title>
+         <editor>
+            <persName>Herbert J. Storing</persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <date when="1981"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Ebenezer?]</forename>
+               <surname>[Cook</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Sotweed Redivivus, or The Planter's Looking-Glass</title>
+         <imprint>
+            <date when="1730"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <title level="m" type="main">A True and Sincere Declaration of the Purpose and Ends of the Plantation Begun in Virginia, of the Degrees Which It Hath Received, and Means by Which It Hath Been Advanced</title>
+         <imprint>
+            <date when="1610"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Leila</forename>
+               <surname>Ahmed</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">A Border Passage</title>
+         <title level="m" type="sub">From Cairo to America</title>
+         <title level="m" type="sub">A Woman's Journey</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Farrar</publisher>
+            <publisher>Straus &amp; Giroux</publisher>
+            <date when="1999"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Raymond</forename>
+               <forename full="init">B.</forename>
+               <surname>Lech</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">The Tragic Fate of the U.S.S</title>
+         <imprint>
+            <pubPlace>Navy's Worst Disaster at Sea.[/[italic]] New York</pubPlace>
+            <publisher>Cooper Square Press</publisher>
+            <date when="2001"/>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s">Indianapolis: [[italic]]The U.S</title>
+      </series>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Henry</forename>
+               <surname>Aaron</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Why Is Welfare So Hard to Reform?</title>
+         <imprint>
+            <pubPlace>Washington</pubPlace>
+            <pubPlace>DC</pubPlace>
+            <publisher>Brookings Institution Press</publisher>
+            <date when="1973"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Thomas</forename>
+               <surname>Frank</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">What's the Matter with Kansas?</title>
+         <title level="m" type="sub">How Conservatives Won the Heart of America</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Metropolitan Books</publisher>
+            <date when="2004"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <title level="m" type="main">Zhongguo renkou tongji nianjian 1996</title>
+         <title level="m" type="parallel">China population statistics yearbook 1996</title>
+         <imprint>
+            <pubPlace>Beijing</pubPlace>
+            <publisher>Zhongguo tongji chubanshe</publisher>
+            <date when="1996"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Danuta</forename>
+               <surname>Bukatko</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>Marvin A. Daehler</persName>
+         </author>
+         <title level="m" type="main">Child Development</title>
+         <title level="m" type="sub">A Thematic Approach</title>
+         <edition n="5"/>
+         <imprint>
+            <pubPlace>Boston</pubPlace>
+            <publisher>Houghton Mifflin</publisher>
+            <date when="2004"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Roger</forename>
+               <surname>Daniels</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Coming to America</title>
+         <title level="m" type="sub">A History of Immigration and Ethnicity in American Life</title>
+         <edition n="2"/>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Harper Perennial</publisher>
+            <date when="2002"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Florence</forename>
+               <surname>Babb</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Between Field and Cooking Pot</title>
+         <title level="m" type="sub">The Political Economy of Marketwomen in Peru</title>
+         <edition>Popr. izd.</edition>
+         <imprint>
+            <pubPlace>Austin</pubPlace>
+            <publisher>University of Texas Press</publisher>
+            <date when="1989"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Ralph</forename>
+               <forename>Waldo</forename>
+               <surname>Emerson</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Nature</title>
+         <imprint>
+            <pubPlace>Boston</pubPlace>
+            <publisher>Beacon</publisher>
+            <date when="1985"/>
+            <date>
+               <origDate when="1836"/>
+            </date>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Winston</forename>
+               <forename full="init">S.</forename>
+               <surname>Churchill</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">The Birth of Britain</title>
+         <imprint>
+            <date when="1956"/>
+         </imprint>
+         <biblScope unit="volume">1</biblScope>
+      </monogr>
+      <monogr>
+         <title level="m" type="main">A History of the English-Speaking Peoples</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Dodd</publisher>
+            <publisher>Mead</publisher>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Jaroslav</forename>
+               <surname>Pelikan</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Christian Doctrine and Modern Culture (since 1700)</title>
+         <imprint>
+            <date when="1989"/>
+         </imprint>
+      </monogr>
+      <monogr>
+         <title level="m" type="main">The Christian Tradition</title>
+         <title level="m" type="sub">A History of the Development of Doctrine</title>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+         </imprint>
+         <biblScope unit="part">5</biblScope>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>John</forename>
+               <surname>Donne</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">The “Anniversaries” and the “Epicedes and Obsequies.”</title>
+         <editor>
+            <persName>Gary A. Stringer</persName>
+         </editor>
+         <editor>
+            <persName>
+               <forename>Ted-Larry</forename>
+               <surname>Pebworth</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <date when="1995"/>
+         </imprint>
+      </monogr>
+      <monogr>
+         <title level="m" type="main">The Variorum Edition of the Poetry of John Donne</title>
+         <editor>
+            <persName>Gary A. Stringer</persName>
+         </editor>
+         <imprint>
+            <pubPlace>Bloomington</pubPlace>
+            <publisher>Indiana University Press</publisher>
+         </imprint>
+         <biblScope unit="part">6</biblScope>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <title level="m" type="main">The Lisle Letters</title>
+         <editor>
+            <persName>
+               <forename>Muriel</forename>
+               <forename>St.</forename>
+               <forename>Clare</forename>
+               <surname>Byrne</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <date when="1981"/>
+         </imprint>
+         <biblScope unit="volume">4</biblScope>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Blanche</forename>
+               <forename>Weisen</forename>
+               <surname>Cook</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Eleanor Roosevelt</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Viking</publisher>
+            <date from="1992" to="1999"/>
+         </imprint>
+         <extent>2 zv.</extent>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Paul</forename>
+               <surname>Tillich</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Systematic Theology</title>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <date from="1951" to="1963"/>
+         </imprint>
+         <extent>3 zv.</extent>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Charles</forename>
+               <forename full="init">W.</forename>
+               <surname>Markman</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Chicago before History</title>
+         <title level="m" type="sub">The Prehistoric Archaeology of a Modern Metropolitan Area</title>
+         <imprint>
+            <pubPlace>Springfield</pubPlace>
+            <publisher>Illinois Historic Preservation Agency</publisher>
+            <date when="1991"/>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s">Studies in Illinois Archaeology</title>
+         <biblScope unit="volume">7</biblScope>
+      </series>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Nancy</forename>
+               <surname>Isenberg</surname>
+            </persName>
+         </author>
+         <title level="m" type="main">Sex and Citizenship in Antebellum America</title>
+         <editor>
+            <persName>Linda K. Kerber</persName>
+         </editor>
+         <editor>
+            <persName>Nell Irvin Painter</persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chapel Hill</pubPlace>
+            <publisher>University of North Carolina Press</publisher>
+            <date when="1998"/>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s">Gender and American Culture</title>
+      </series>
+   </biblStruct>
+   <biblStruct type="bookChapter">
+      <analytic>
+         <author>
+            <persName>
+               <forename>John</forename>
+               <forename full="init">D.</forename>
+               <surname>Kelly</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Seeing Red</title>
+         <title level="a" type="sub">Mao Fetishism, Pax Americana, and the Moral Economy of War</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Anthropology and Global Counterinsurgency</title>
+         <editor>
+            <persName>John D. Kelly</persName>
+         </editor>
+         <editor>
+            <persName>
+               <forename>Beatrice</forename>
+               <surname>Jauregui</surname>
+            </persName>
+         </editor>
+         <editor>
+            <persName>Sean T. Mitchell</persName>
+         </editor>
+         <editor>
+            <persName>
+               <forename>Jeremy</forename>
+               <surname>Walton</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <biblScope unit="page" from="67" to="83">67–83</biblScope>
+            <date when="2010"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="bookChapter">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Karen</forename>
+               <surname>Benedict</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Archival Ethics</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Managing Archives and Archival Institutions</title>
+         <editor>
+            <persName>James Gregory Bradsher</persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <biblScope unit="page" from="174" to="84">174-84</biblScope>
+            <date when="1989"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="bookChapter">
+      <analytic>
+         <author>
+            <persName>
+               <forename>John</forename>
+               <surname>Demos</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Real Lives and Other Fictions</title>
+         <title level="a" type="sub">Reconsidering Wallace Stegner's Angle of Repose</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novel History</title>
+         <title level="m" type="sub">Historians and Novelists Confront America's Past (and Each Other)</title>
+         <editor>
+            <persName>Mark C. Carnes</persName>
+         </editor>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>Simon and Schuster</publisher>
+            <biblScope unit="page" from="132" to="45">132–45</biblScope>
+            <date when="2001"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="bookChapter">
+      <analytic>
+         <author>
+            <persName>
+               <forename>John</forename>
+               <forename>Charles</forename>
+               <surname>Chasteen</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Neocolonialism</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Born in Blood and Fire</title>
+         <title level="m" type="sub">A Concise History of Latin America</title>
+         <imprint>
+            <pubPlace>New York</pubPlace>
+            <publisher>W. W. Norton &amp; Company</publisher>
+            <biblScope unit="page" from="179" to="206">179–206</biblScope>
+            <date when="2001"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="bookChapter">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Anne</forename>
+               <surname>Carr</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>Douglas J. Schuurman</persName>
+         </author>
+         <title level="a" type="main">Religion and Feminism</title>
+         <title level="a" type="sub">A Reformist Christian Analysis</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Religion, Feminism, and the Family,</title>
+         <editor>
+            <persName>
+               <forename>Anne</forename>
+               <surname>Carr</surname>
+            </persName>
+         </editor>
+         <editor>
+            <persName>Mary Stewart Van Leeuwen</persName>
+         </editor>
+         <imprint>
+            <pubPlace>Louisville</pubPlace>
+            <pubPlace>KY</pubPlace>
+            <publisher>Westminster John Knox Press</publisher>
+            <biblScope unit="page" from="11" to="32">11–32</biblScope>
+            <date when="1996"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <title level="m" type="main">The Founders’ Constitution</title>
+         <editor>
+            <persName>
+               <forename>Philip</forename>
+               <forename full="init">B.</forename>
+               <surname>Kurland</surname>
+            </persName>
+         </editor>
+         <editor>
+            <persName>
+               <forename>Ralph</forename>
+               <surname>Lerner</surname>
+            </persName>
+         </editor>
+         <imprint>
+            <pubPlace>Chicago</pubPlace>
+            <publisher>University of Chicago Press</publisher>
+            <date when="1987"/>
+         </imprint>
+      </monogr>
+      <ref target="http://press-pubs.uchicago.edu/founders/">http://press-pubs.uchicago.edu/founders/</ref>
+      <note type="accessed">
+         <date when="2010-02-28"/>
+      </note>
+   </biblStruct>
+   <biblStruct type="book">
+      <monogr>
+         <author>
+            <persName>
+               <forename>Julian</forename>
+               <surname>Samora</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>and Patricia Vandel Simon</persName>
+         </author>
+         <title level="m" type="main">A History of the Mexican-American People</title>
+         <edition>Popr. izd.</edition>
+         <imprint>
+            <pubPlace>East Lansing</pubPlace>
+            <pubPlace>MI</pubPlace>
+            <publisher>Julian Samora Research Institute</publisher>
+            <publisher>Michigan State University</publisher>
+            <date when="2000"/>
+         </imprint>
+      </monogr>
+      <ref target="http://www.jsri.msu.edu/museum/pubs/MexAmHist/chapter14.html#six">http://www.jsri.msu.edu/museum/pubs/MexAmHist/chapter14.html#six</ref>
+      <note type="accessed">
+         <date when="2005-12-19"/>
+      </note>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Joshua</forename>
+               <forename full="init">I.</forename>
+               <surname>Weinstein</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">The Market in Plato’s Republic</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">Classical Philology</title>
+         <imprint>
+            <biblScope unit="volume">104</biblScope>
+            <biblScope unit="page" from="439" to="58">439–58</biblScope>
+            <date when="2009"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Nancy</forename>
+               <forename full="init">L.</forename>
+               <surname>Green</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">The Politics of Exit</title>
+         <title level="a" type="sub">Reversing the Immigration Paradigm</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">Journal of Modern History</title>
+         <imprint>
+            <biblScope unit="volume">77</biblScope>
+            <biblScope unit="page" from="263" to="89">263–89</biblScope>
+            <date>junij 2005</date>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Peter</forename>
+               <surname>Loften</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Reverberations between Wordplay and Swordplay in Hamlet</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">Aeolian Studies</title>
+         <imprint>
+            <biblScope unit="volume">2</biblScope>
+            <biblScope unit="page" from="12" to="29">12–29</biblScope>
+            <date when="1989"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename>George</forename>
+               <forename full="init">S.</forename>
+               <surname>Williamson</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">What Killed August von Kotzebue?</title>
+         <title level="a" type="sub">The Temptations of Virtue and the Political Theology of German Nationalism, 1789–1819</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">Journal of Modern History</title>
+         <imprint>
+            <biblScope unit="volume">72</biblScope>
+            <biblScope unit="page" from="890" to="943">890–943</biblScope>
+            <date>december 2000</date>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename full="init">W.</forename>
+               <surname>Kern</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Waar verzamelde Pigafetta zijn Maleise woorden?</title>
+         <title level="a" type="parallel">Where did Pigafetta collect his Malaysian words?</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">Tijdschrift voor Indische taal-, land- en volkenkunde</title>
+         <imprint>
+            <biblScope unit="volume">78</biblScope>
+            <biblScope unit="page" from="271" to="73">271–73</biblScope>
+            <date when="1938"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Rahul</forename>
+               <surname>Kumar</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Reasonable Reasons in Contractualist Moral Argument</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">Ethics</title>
+         <imprint>
+            <biblScope unit="volume">114</biblScope>
+            <biblScope unit="page" from="6" to="37">6–37</biblScope>
+            <date>oktober 2003</date>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename full="init">J.</forename>
+               <forename full="init">M.</forename>
+               <surname>Beattie</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">The Pattern of Crime in England, 1660–1800</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">Past and Present</title>
+         <imprint>
+            <biblScope unit="issue">62</biblScope>
+            <biblScope unit="page" from="47" to="95">47–95</biblScope>
+            <date when="1974"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename full="init">J.</forename>
+               <forename>Craig</forename>
+               <surname>Jenkins</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>
+               <forename>David</forename>
+               <surname>Jacobs</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>
+               <forename>Jon</forename>
+               <surname>Agnone</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Political Opportunities and African-American Protest, 1948–1997</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">American Journal of Sociology</title>
+         <imprint>
+            <biblScope unit="volume">109</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <biblScope unit="page" from="277" to="303">277–303</biblScope>
+            <date>september 2003</date>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Ann</forename>
+               <forename>Grodzins</forename>
+               <surname>Gold</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Grains of Truth</title>
+         <title level="a" type="sub">Shifting Hierarchies of Food and Grace in Three Rajasthani Tales</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">History of Religions</title>
+         <imprint>
+            <biblScope unit="volume">38</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <biblScope unit="page" from="150" to="71">150–71</biblScope>
+            <date when="1998"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <title level="a" type="main">Things</title>
+         <editor>
+            <persName>
+               <forename>Bill</forename>
+               <surname>Brown</surname>
+            </persName>
+         </editor>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">Critical Inquiry</title>
+         <imprint>
+            <biblScope unit="volume">28</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <date>jesen 2001</date>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Gueorg</forename>
+               <surname>Kossinets</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>Duncan J. Watts</persName>
+         </author>
+         <title level="a" type="main">Origins of Homophily in an Evolving Social Network</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">American Journal of Sociology</title>
+         <imprint>
+            <biblScope unit="volume">115</biblScope>
+            <biblScope unit="page" from="405" to="50">405–50</biblScope>
+            <date when="2009"/>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Brian</forename>
+               <surname>Uzzi</surname>
+            </persName>
+         </author>
+         <author>
+            <persName>
+               <forename>Jarrett</forename>
+               <surname>Spiro</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Collaboration and Creativity</title>
+         <title level="a" type="sub">The Small World Problem</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">American Journal of Sociology</title>
+         <imprint>
+            <biblScope unit="volume">111</biblScope>
+            <biblScope unit="issue">2</biblScope>
+            <date>september 2005</date>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct type="journalArticle">
+      <analytic>
+         <author>
+            <persName>
+               <forename>Lawrence</forename>
+               <forename full="init">A.</forename>
+               <surname>Shapiro</surname>
+            </persName>
+         </author>
+         <title level="a" type="main">Multiple Realizations</title>
+      </analytic>
+      <monogr>
+         <title level="j" type="main">Journal of Philosophy</title>
+         <imprint>
+            <biblScope unit="volume">97</biblScope>
+            <biblScope unit="issue">12</biblScope>
+            <biblScope unit="page" from="635" to="54">635–54</biblScope>
+            <date>december 2000</date>
+         </imprint>
+      </monogr>
+   </biblStruct>
+</listBibl>
